@@ -19,6 +19,5 @@ jobs:
             https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip
             https://github.com/errata-ai/Google/releases/latest/download/Google.zip
             https://github.com/errata-ai/Joblint/releases/download/v0.4.1/Joblint.zip
-            
-          env:
+        env:
             GITHUB_TOKEN: '${{secrets.GITHUB_TOKEN}}'
