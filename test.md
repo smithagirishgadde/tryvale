@@ -1,1 +1,1 @@
-The Democratic Republic of Congo is like a super big puzzle piece in the middle of Africa. It's full of jungles and rivers that look like big squiggles on the map. There's this huge Congo River that's like a snake moving through the country. And there are cool cities like Kinshasa that are all bright and busy with people and markets.
+The Democratic Republic of Congo is like a super big puzzle piece in the middle of Africa. It's full of jungles and rivers that look like big squiggles on the map. 
