@@ -22,5 +22,6 @@ jobs:
       uses: errata-ai/vale-action@reviewdog
       with:
         debug: true
+        files: all
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
