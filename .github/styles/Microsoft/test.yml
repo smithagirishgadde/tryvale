@@ -1,0 +1,4 @@
+extends: existence
+message: Use 'Intel®' format, not 'Intel'.
+ignorecase: true
+level: error
