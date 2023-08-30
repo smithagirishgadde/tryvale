@@ -1,4 +1,4 @@
 extends: existence
-message: Use 'Intel®' format, not 'Intel'.
+message: Use 'Intel®' format, not 'intel'.
 ignorecase: true
 level: error
