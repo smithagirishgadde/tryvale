@@ -13,7 +13,7 @@
 ## Edge Video Analytics Microservice
 
 ### Overview
-
+Intel
 Video analytics involves the conversion of video streams into valuable insights through the application of video processing, inference, and analytics operations. It finds applications in various business sectors including healthcare, retail, entertainment, and industrial domains. The algorithms utilized in video analytics are responsible for performing tasks such as object detection, classification, identification, counting, and tracking on the input video stream.
 
 To enable the efficient development and deployment of optimized video analytics pipelines,  Edge Video Analytics Microservice (EVAM) is designed as an interoperable containerized microservice developed in Python programing language. It is built on top of GStreamer and Intel® Deep Learning Streamer (DL Streamer), which provide video ingestion and deep learning inferencing functionalities respectively. Developers can save development and deployment time by using the pre-built Docker* image and by simply configuring the video analytics pipelines in the well-known JSON format. 
